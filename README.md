@@ -1,5 +1,5 @@
 # Vtyle
-![](https://img.shields.io/badge/Version-1.1.0-green)![](https://img.shields.io/badge/Creator-Hustune-99ddcc)![](https://img.shields.io/badge/Fork-bullet46-99ddcc)
+![](https://img.shields.io/badge/Version-1.1.0-green) ![](https://img.shields.io/badge/Creator-Hustune-99ddcc) ![](https://img.shields.io/badge/Fork-bullet46-99ddcc)
 
 适用于Qt5，可实时预览的Qss样式编辑器。
 

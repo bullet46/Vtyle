@@ -6,7 +6,7 @@
 ## 一、项目概述
 
 https://www.bilibili.com/video/BV1nt4y1W7du
-
+Release:https://github.com/bullet46/Vtyle/releases/tag/v1.1.0
 
 ## 二、更新日志
 

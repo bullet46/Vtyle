@@ -7,7 +7,6 @@
 
 https://www.bilibili.com/video/BV1nt4y1W7du
 
-<iframe src="//player.bilibili.com/player.html?aid=982252646&bvid=BV1nt4y1W7du&cid=742134329&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 二、更新日志
 
